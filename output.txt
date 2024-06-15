@@ -1,0 +1,294 @@
+.....................................................
+.                     ---------                     .
+.             --------------------------            .
+.             *Welcome to Mystic Mayhame !!*        .
+.             --------------------------            .
+.                     ---------                     .
+.....................................................
+Enter Your Player name for Mystic Mayhem
+
+Danurdha
+You can Change your name in any time
+
+You have to enter an user name for this, but once you press Enter you can not change it
+
+Danux
+You have to select Home_Ground for you
+
+Select 1 from  Hillcrest, Marshland, Desert, and Arcane
+
+Desert
+Player Profile
+Name-Danurdha
+Username-Danux
+UserID-100000
+HomeGroud-Desert
+Gold-500
+XP-0
+You should make your own army
+
+Your Current Gold : 500
+Archers               Knights                Mages               Healers               Mythical Creatures
+
+Name: Shooter         Name: Squire           Name: Warlock       Name: Soother         Name: Dragon
+Price: 80 gc          Price: 85 gc           Price: 100 gc       Price: 95 gc          Price: 120 gc
+Attack: 11            Attack: 8              Attack: 12          Attack: 10            Attack: 12
+Defence: 4            Defence: 9             Defence: 7          Defence: 8            Defence: 14
+Health: 6             Health: 7              Health: 10          Health: 9             Health: 15
+Speed: 9              Speed: 8               Speed: 12           Speed: 6              Speed: 8
+
+Name: Ranger          Name: Cavalier         Name: Illusionist   Name: Medic           Name: Basilisk
+Price: 115 gc         Price: 110 gc          Price: 120 gc       Price: 120 gc         Price: 165 gc
+Attack: 14            Attack: 10             Attack: 13          Attack: 12            Attack: 15
+Defence: 5            Defence: 12            Defence: 7          Defence: 9            Defence: 11
+Health: 8             Health: 7              Health: 12          Health: 10            Health: 10
+Speed: 10             Speed: 9               Speed: 14           Speed: 7              Speed: 12
+
+Name: Sunfire         Name: Templar          Name: Enchanter     Name: Alchemist       Name: Hydra
+Price: 160 gc         Price: 155 gc          Price: 160 gc       Price: 150 gc         Price: 205 gc
+Attack: 15            Attack: 14             Attack: 16          Attack: 13            Attack: 12
+Defence: 5            Defence: 16            Defence: 10         Defence: 13           Defence: 16
+Health: 8             Health: 12             Health: 13          Health: 13            Health: 15
+Speed: 14             Speed: 12              Speed: 16           Speed: 13             Speed: 11
+
+Name: Zing            Name: Zoro             Name: Conjurer      Name: Saint           Name: Phoenix
+Price: 200 gc         Price: 180 gc          Price: 195 gc       Price: 200 gc         Price: 275 gc
+Attack: 16            Attack: 17             Attack: 18          Attack: 16            Attack: 17
+Defence: 9            Defence: 16            Defence: 15         Defence: 14           Defence: 13
+Health: 11            Health: 13             Health: 14          Health: 17            Health: 17
+Speed: 14             Speed: 14              Speed: 12           Speed: 19             Speed: 19
+
+Name: Saggitarius     Name: Swiftblade       Name: Eldritch      Name: Lightbringer    Name: Pegasus
+Price: 230 gc         Price: 250 gc          Price: 270 gc       Price: 260 gc         Price: 340 gc
+Attack: 18            Attack: 18             Attack: 19          Attack: 17            Attack: 14
+Defence: 7            Defence: 20            Defence: 17         Defence: 15           Defence: 18
+Health: 12            Health: 17             Health: 18          Health: 19            Health: 20
+Speed: 17             Speed: 13              Speed: 14           Speed: 12             Speed: 20
+Lets Buy a Archer
+
+Enter your archer's name what to buy
+
+Shooter
+Your Current Gold : 420
+
+Lets Buy a Knight
+
+Enter your Knight's name what to buy
+
+Squire
+Your Current Gold : 335
+
+Lets Buy a Mage
+
+Enter your Mage's name what to buy
+
+Warlock
+Your Current Gold : 235
+
+Lets Buy a Healer
+
+Enter your Healer's name what to buy
+
+Soother
+Your Current Gold : 140
+
+Lets Buy a Mythical Creature
+
+Enter your Mythical Creature's name what to buy
+
+Dragon
+You Can buy equiments for your army
+
+Armour               Artefacts
+
+Chainmail            Excalibur
+Price:70gc           Price:150gc
+Attack:no change     Attack:+2
+Defence:+1           Defence:no change
+Health:no change     Health:no changeo
+Speed:-1             Speed:no change
+
+Regalia              Amulet
+Price:150gc          Price:200gc
+Attack:no change     Attack:+1
+Defence:+1           Defence:-1
+Health:no change     Health:+1
+Speed:no change      Speed:+1
+
+Fleece               Crystal
+Price:150gc          Price:210gc
+Attack:no change     Attack:+2
+Defence:+2           Defence:+1
+Health:+1            Health:-1
+Speed:-1             Speed:-1
+If You want to buy Equipments for Your Army?
+
+Your Gold : 20
+no
+     Let's Play a Battle
+       Are You Ready!!
+yes
+   Choose Your Opponent
+
+   Available Opponents Are......!!!
+
+ *) GeraltofRivia
+ *) Yasith
+ *) Nisal
+GeraltofRivia
+Name :-GeraltofRivia
+
+       GeraltofRivia's Army
+Archer
+Squire
+Warlock
+Medic
+Dragon
+XP :-32
+.......................ROUND 1......................
+Attacker Danurdha
+
+Warlock attacks Archer
+
+Defender's new Health 2.50
+.......................ROUND 2......................
+Attacker GeraltofRivia
+
+Archer attacks Archer
+
+Defender's new Health 3.40
+.......................ROUND 3......................
+Attacker Danurdha
+
+Warlock attacks Archer
+
+Defender's new Health 0
+
+Archer Died.
+
+.......................ROUND 4......................
+Attacker GeraltofRivia
+
+Warlock attacks Archer
+
+Defender's new Health 0
+
+Archer Died.
+
+.......................ROUND 5......................
+Attacker Danurdha
+
+Warlock attacks Warlock
+
+Defender's new Health 4.70
+.......................ROUND 6......................
+Attacker GeraltofRivia
+
+Warlock attacks Warlock
+
+Defender's new Health 4.70
+.......................ROUND 7......................
+Attacker Danurdha
+
+Warlock attacks Warlock
+
+Defender's new Health 0
+
+Warlock Died.
+
+.......................ROUND 8......................
+Attacker GeraltofRivia
+
+Knight's new Health 7.80
+.......................ROUND 9......................
+Attacker Danurdha
+
+Warlock attacks Medic
+
+Defender's new Health 5.90
+.......................ROUND 10......................
+Attacker GeraltofRivia
+
+Knight's new Health 8.60
+.......................ROUND 11......................
+Attacker Danurdha
+
+Warlock attacks Medic
+
+Defender's new Health 0.80
+.......................ROUND 12......................
+Attacker GeraltofRivia
+
+Knight's new Health 9.40
+.......................ROUND 13......................
+Attacker Danurdha
+
+Warlock attacks Medic
+
+Defender's new Health 0
+
+Medic Died.
+
+.......................ROUND 14......................
+Attacker GeraltofRivia
+
+Squire attacks Warlock
+
+Defender's new Health 1.40
+.......................ROUND 15......................
+Attacker Danurdha
+
+Warlock attacks Squire
+
+Defender's new Health 4.30
+.......................ROUND 16......................
+Attacker GeraltofRivia
+
+Squire attacks Warlock
+
+Defender's new Health 0
+
+Warlock Died.
+
+.......................ROUND 17......................
+Attacker Danurdha
+
+Squire attacks Squire
+
+Defender's new Health 1.20
+.......................ROUND 18......................
+Attacker GeraltofRivia
+
+Squire attacks Soother
+
+Defender's new Health 5.80
+.......................ROUND 19......................
+Attacker Danurdha
+
+Squire attacks Squire
+
+Defender's new Health 0
+
+Squire Died.
+
+.......................ROUND 20......................
+Attacker GeraltofRivia
+
+Dragon attacks Soother
+
+Defender's new Health 0.60
+-----------------------------------------
+                  DRAW !
+-----------------------------------------------------------
+           **Developed by DIAK_LK Gaming**
+-----------------------------------------------------------
+
+                  **Developing Team**
+
+           *)A.L Dineth Danurdha - Architect
+
+           *)S.Amanethmi - Story and Concept,Co-Developer
+
+           *)W.G Kavishka Gayashan - Developer
+
+           *)T.G Yasith Imalka  - Developer
